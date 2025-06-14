@@ -7,3 +7,4 @@ namespace globals {
 	// Used in fireevent hook
 	inline bool round_ended = false;
 }
+
