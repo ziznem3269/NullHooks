@@ -103,3 +103,4 @@ typedef struct _TRAMPOLINE
 } TRAMPOLINE, * PTRAMPOLINE;
 
 BOOL CreateTrampolineFunction(PTRAMPOLINE ct);
+
