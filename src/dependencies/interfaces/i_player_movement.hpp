@@ -100,3 +100,4 @@ public:
 	virtual void check_error(int nSlot, player_t* player, int commands_acknowledged) = 0;
 	virtual void _update(int nSlot, bool received_new_world_update, bool validframe, int incoming_acknowledged, int outgoing_command) = 0;
 };
+
