@@ -80,3 +80,4 @@ float vec3_t::dot(const float* other) {
 
 	return(a.x * other[0] + a.y * other[1] + a.z * other[2]);
 }
+
