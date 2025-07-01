@@ -110,3 +110,4 @@ extern "C" {
 #endif
 
 #endif /* _HDE64_H_ */
+
