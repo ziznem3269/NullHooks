@@ -6,3 +6,4 @@ void misc::reveal_ranks(c_usercmd* cmd) {
     if (variables::misc::reveal_ranks && cmd->buttons & in_score) 
         interfaces::client->dispatch_user_message(50, 0, 0, nullptr);
 }
+
