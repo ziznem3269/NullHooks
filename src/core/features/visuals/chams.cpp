@@ -141,3 +141,4 @@ void visuals::draw_chams(i_mat_render_context* ctx, const draw_model_state_t& st
 
 	hooks::draw_model_execute::original(interfaces::model_render, 0, ctx, state, info, matrix);
 }
+
