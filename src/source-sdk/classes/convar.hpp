@@ -107,3 +107,4 @@ public:
 	float max;
 	utl_vector<fn_change_callback_t> callbacks;
 };
+
