@@ -5,3 +5,4 @@
 namespace utilities {
 	std::uint8_t* pattern_scan(const char* module_name, const char* signature) noexcept;
 }
+
