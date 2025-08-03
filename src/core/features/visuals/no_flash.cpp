@@ -14,3 +14,4 @@ void visuals::noflash() {
 
 	csgo::local_player->flash_alpha() = 255.f * variables::misc_visuals::noflash_alpha;
 }
+
