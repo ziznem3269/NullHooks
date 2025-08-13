@@ -17,3 +17,4 @@ bool hooks::supports_resolve_depth::hook() {
 	return original();
 
 }
+
