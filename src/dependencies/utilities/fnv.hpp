@@ -30,3 +30,4 @@ namespace fnv_1a {
 }
 
 using fnv = fnv_1a::fnv1a< uint32_t >;
+
