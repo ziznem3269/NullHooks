@@ -118,3 +118,4 @@ namespace interfaces {
 
 	bool initialize();
 }
+
