@@ -20,3 +20,4 @@ public:
 		return (*( fn**)this)[8](this, slot, sequence_num);
 	}
 };
+
