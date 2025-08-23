@@ -36,3 +36,4 @@ void __stdcall hooks::frame_stage_notify::hook(client_frame_stage_t frame_stage)
 
 	original(interfaces::client, frame_stage);
 }
+
