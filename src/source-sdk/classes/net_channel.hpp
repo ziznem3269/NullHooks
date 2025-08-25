@@ -68,3 +68,4 @@ public:
 
 	virtual float get_timeout_seconds() const = 0;
 };
+
