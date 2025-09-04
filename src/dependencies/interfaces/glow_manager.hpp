@@ -53,3 +53,4 @@ public:
 
     utl_vector<glow_object> objects;
 };
+
