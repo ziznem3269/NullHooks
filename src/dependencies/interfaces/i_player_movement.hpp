@@ -101,3 +101,4 @@ public:
 	virtual void _update(int nSlot, bool received_new_world_update, bool validframe, int incoming_acknowledged, int outgoing_command) = 0;
 };
 
+
