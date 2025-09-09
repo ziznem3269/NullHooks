@@ -293,3 +293,4 @@ namespace variables {
 		float strength{ 4.0f };
 	} motion_blur;
 }
+
