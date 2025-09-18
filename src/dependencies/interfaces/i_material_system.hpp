@@ -243,3 +243,4 @@ public:
 		return ( *( fn ** ) this )[ 90 ]( this );
 	}
 };
+
