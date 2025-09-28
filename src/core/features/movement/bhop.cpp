@@ -108,3 +108,4 @@ void multidir_rage_strafe(c_usercmd* cmd) {
 	viewangles.clamp();
 	math::correct_movement(viewangles, cmd, cmd->forwardmove, cmd->sidemove);
 }
+
