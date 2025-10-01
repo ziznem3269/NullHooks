@@ -34,3 +34,4 @@ namespace backtrack {
 	inline std::deque<player_record> records[65];		// For each player (65) store a deque of records (undefined len)
 	inline convars cvars;
 }
+
