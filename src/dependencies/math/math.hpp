@@ -19,3 +19,4 @@ namespace math {
 	float get_fov(const vec3_t& view_angle, const vec3_t& aim_angle);
 	float angle_delta_rad(float a, float b);
 };
+
