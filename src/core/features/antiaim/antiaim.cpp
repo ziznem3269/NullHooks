@@ -87,3 +87,4 @@ void antiaim::run_antiaim(c_usercmd* cmd, bool& send_packet) {
 	// @note: https://github.com/LWSS/Fuzion/blob/0a4d775e17aba7a723aadce5b80898705e0bd6ff/src/Hacks/antiaim.cpp#L240
 	// @note: https://github.com/LWSS/Fuzion/blob/master/src/Hacks/fakelag.cpp
 }
+
