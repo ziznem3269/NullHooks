@@ -22,3 +22,4 @@ struct dlight_t {
 	float inner_angle;
 	float outer_angle;
 };
+
