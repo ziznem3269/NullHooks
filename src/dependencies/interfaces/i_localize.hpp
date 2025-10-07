@@ -7,3 +7,4 @@ public:
 		return (*(original_fn * *)this)[12](this, token_name);
 	}
 };
+
