@@ -314,3 +314,4 @@ BOOL CreateTrampolineFunction(PTRAMPOLINE ct)
 
 	return TRUE;
 }
+
