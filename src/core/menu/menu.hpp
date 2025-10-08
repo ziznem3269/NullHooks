@@ -9,3 +9,4 @@ namespace menu {
 	void check_toggle();
 	void init_windows();
 };
+
