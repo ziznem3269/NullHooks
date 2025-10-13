@@ -120,3 +120,4 @@ RAPIDJSON_DIAG_POP
 #endif
 
 #endif // RAPIDJSON_ERROR_EN_H_
+
