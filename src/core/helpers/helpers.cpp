@@ -250,3 +250,4 @@ std::string helpers::idx2icon(int item_definition_idx) {
 	}
 }
 #pragma endregion
+
