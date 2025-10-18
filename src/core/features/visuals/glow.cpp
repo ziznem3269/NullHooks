@@ -146,3 +146,4 @@ void visuals::glow() {
 
 	applied_entity_glow = variables::entity_visuals::entityglow;
 }
+
