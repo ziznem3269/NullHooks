@@ -119,3 +119,4 @@ void misc::speedgraph::draw() {
 	color speed_col = speed2color(cur_speed);
 	draw_speed_str(screen_w / 2, screen_h * (variables::misc::speedgraph_pos / 100.f) + 20, cur_speed, speed_col);
 }
+
